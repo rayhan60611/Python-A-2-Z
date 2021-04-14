@@ -2,7 +2,8 @@ It's a Python Full course by thyself and This course is sub-divided
 into different Chapter which make the course more easier to Me.
 
 Chapter 1 - Modules, Comments & Pip
-Chapter 1 - Practice Set
+Chapter 1 - Practice Set \n
+
 Chapter 2 - Variables & Data Types
 Chapter 2 - Practice Set
 Chapter 3 - Strings
