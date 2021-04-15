@@ -1,4 +1,4 @@
-# Create a list using []
+# Create a list using []:
 a = [1, 2 , 4, 56, 6]
 
 # Print the list using print() function
