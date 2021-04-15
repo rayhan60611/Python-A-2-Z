@@ -1,12 +1,12 @@
 myDict = {
     "Fast": "In a Quick Manner",
-    "Harry": "A Coder",
+    "Rayhan": "A Coder",
     "Marks": [1, 2, 5],
-    "anotherdict": {'harry': 'Player'}
+    "anotherdict": {'Rayhan': 'Player'}
 }
 
 # print(myDict['Fast'])
-# print(myDict['Harry'])
+# print(myDict['Rayhan'])
 myDict['Marks'] = [45, 78]
 print(myDict['Marks'])
-print(myDict['anotherdict']['harry'])
+print(myDict['anotherdict']['Rayhan'])
