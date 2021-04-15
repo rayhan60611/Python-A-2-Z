@@ -1,5 +1,5 @@
 '''
-Author: Rayhan Parvez
+Author: Rayhan 
 Licenced to: ABC Company
 ***********Thanks for reading**********
 '''
