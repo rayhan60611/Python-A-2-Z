@@ -9,7 +9,7 @@ for i in range(1,11):
 
 #Problem No 2:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-l= ['Rayhan','Sumon','Sony','Khan','Sunny']
+l= ['Rayhan','Sumon','Sony','Tony','Sunny']
 for name in l:
     if name.startswith("S"):
         print(f"Hello Mr. {name} !!")
