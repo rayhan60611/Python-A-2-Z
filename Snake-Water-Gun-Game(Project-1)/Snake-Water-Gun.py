@@ -2,7 +2,7 @@ import random
 
 # compValue = random.randint(1, 3)
 
-
+x=0
 def PlayerinputFuncton():
     playerValue=input(f'''Players Turn:
             1.Press "S" For Snake 
